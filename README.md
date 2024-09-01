@@ -1,4 +1,5 @@
 # tochi
+<img src="https://github.com/user-attachments/assets/e916d643-f2db-4403-9f3f-2a5935973b5b" style="width: 200px;height: 200px;border-radius: 50%;">
 
 ## SNS
 - X: [https://twitter.com/tochi_jp](https://twitter.com/tochi_jp)
