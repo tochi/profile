@@ -14,8 +14,16 @@
 - Facebook: [https://www.facebook.com/tomoyuki.tochihira](https://www.facebook.com/tomoyuki.tochihira)
 
 ## Apps
-- [大きな連絡先 - iOS](https://apps.apple.com/jp/app/%E5%A4%A7%E3%81%8D%E3%81%AA%E6%96%87%E5%AD%97%E3%81%A7%E8%A6%8B%E3%82%84%E3%81%99%E3%81%84%E9%9B%BB%E8%A9%B1%E5%B8%B3-%E5%A4%A7%E3%81%8D%E3%81%AA%E9%80%A3%E7%B5%A1%E5%85%88/id525676588)
 - [Good Sleeper 360 - visionOS](https://apps.apple.com/jp/app/good-sleeper-360/id6504276955)
+- [大きな連絡先 - iOS](https://apps.apple.com/jp/app/%E5%A4%A7%E3%81%8D%E3%81%AA%E6%96%87%E5%AD%97%E3%81%A7%E8%A6%8B%E3%82%84%E3%81%99%E3%81%84%E9%9B%BB%E8%A9%B1%E5%B8%B3-%E5%A4%A7%E3%81%8D%E3%81%AA%E9%80%A3%E7%B5%A1%E5%85%88/id525676588)
+- FingerPK
+- Photopost
+- SakeSearch
+- Local-Search
+- Help me for iPhone
+- 着信音 〜 春夏秋冬
+- 金比羅船船
+- Browser Pencil
 
 ## Books
 - [できるfit Slack&Zoom&Trello テレワーク基本＋活用ワザ できるfitシリーズ](https://amzn.to/4e77evG)
