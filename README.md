@@ -41,3 +41,4 @@
 - [JAWS Festa 2018 Osaka](https://jft2018.jaws-ug.jp/session/642/)
 - [Alexa Day 2018](https://alexaday2018.jaws-ug.jp/speaker/tomoyuki-tochihira/)
 - [JP_Stripes Connect 2019](https://connect2019.jpstripes.com/speaker/tochihira/)
+- [try! Swift Tokyo 2025](https://tryswift.jp/#speaker)
